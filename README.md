@@ -8,4 +8,4 @@ Examples:
 * missingNums([10, 5, 1, 2, 4, 6, 8, 3, 9]) ➞ 7 
 
 
-
+![Imgur](https://i.imgur.com/bnVIB5R.png?1)
